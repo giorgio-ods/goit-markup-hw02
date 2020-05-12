@@ -143,7 +143,8 @@ footer {
   line-height: 1.62;
   height: 38px;
 }
-.filter .title:hover {
+.filter .title:hover,
+.filter .title:focus {
   background-color: var(--accent-colour);
 }
 /* Projects */
